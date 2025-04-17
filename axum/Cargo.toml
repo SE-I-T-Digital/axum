@@ -46,7 +46,7 @@ axum-core = { path = "../axum-core", version = "0.4.3" }
 bytes = "1.0"
 futures-util = { version = "0.3", default-features = false, features = ["alloc"] }
 http = "1.0.0"
-http-body = "1.0.0"
+http-body = "1.0.1"
 http-body-util = "0.1.0"
 itoa = "1.0.5"
 matchit = "0.7"
